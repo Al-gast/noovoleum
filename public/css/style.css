@@ -25,7 +25,7 @@
      Google Fonts
 ====================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
 
 /* ===================================
      Scrollbar
@@ -37,7 +37,7 @@
 
 ::-webkit-scrollbar-track {
   width: 12px;
-  background: #23262D;
+  background: #23262d;
   border-left: 0 solid white;
   border-right: 0 solid white;
 }
@@ -62,7 +62,7 @@ html {
 }
 
 body {
-  font-family: 'Varela Round', sans-serif;
+  font-family: "Varela Round", sans-serif;
   overflow-x: hidden;
 }
 
@@ -74,7 +74,7 @@ a {
   font-size: 48px;
   font-weight: 700;
   color: #fff;
-  font-family: 'Varela Round', sans-serif;
+  font-family: "Varela Round", sans-serif;
 }
 
 .subheading {
@@ -147,7 +147,7 @@ a {
 /*Social icons hover*/
 .icon-hvr:hover {
   color: #70ad47 !important;
-  background-color: #23262D;
+  background-color: #23262d;
 }
 
 /*Button*/
@@ -161,7 +161,7 @@ a {
   position: absolute;
   line-height: inherit;
   display: inline-block;
-  color: #23262D;
+  color: #ffffff;
   border: 2px solid transparent;
   text-transform: capitalize;
   transition: all 0.5s ease !important;
@@ -170,14 +170,14 @@ a {
 .btn.button {
   font-size: 12px;
   font-weight: 700;
-  color: #23262D;
+  color: #ffffff;
   padding: 9px 34px !important;
   line-height: 1.8rem !important;
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
-  font-family: 'Varela Round', sans-serif;
+  font-family: "Varela Round", sans-serif;
 }
 
 .btn.btn-rounded {
@@ -187,7 +187,7 @@ a {
 .btn.yellow-btn {
   background: #70ad47;
   border-color: #70ad47;
-  color: #23262D;
+  color: #ffffff;
 }
 
 /*Button Hover*/
@@ -394,7 +394,7 @@ a {
 
 .navbar-fixed-top.scrolled .sidemenu_btn {
   left: 96%;
-  background: #23262D;
+  background: #23262d;
   transition: none;
 }
 
@@ -489,7 +489,7 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #23262D;
+  background-color: #23262d;
   transition: opacity 300ms cubic-bezier(0.895, 0.03, 0.685, 0.22);
   display: none;
   z-index: 1031;
@@ -546,7 +546,7 @@ a {
   content: " ";
   height: 24px;
   width: 2px;
-  background: #23262D;
+  background: #23262d;
   top: 5px;
 }
 
@@ -630,7 +630,7 @@ a {
 
 .side-nav .navbar-nav .nav-link {
   display: inline-table;
-  color: #23262D;
+  color: #23262d;
   padding: 5px 0 5px 0 !important;
   font-size: 36px;
   font-weight: 700;
@@ -642,7 +642,7 @@ a {
 .side-nav .navbar-nav .nav-link::after {
   content: "";
   position: absolute;
-  background: #23262D;
+  background: #23262d;
   display: inline-block;
   width: 0;
   height: 3px;
@@ -670,7 +670,7 @@ a {
 .side-menu .text {
   margin-bottom: 0;
   font-size: 16px;
-  color: #23262D;
+  color: #23262d;
 }
 
 .menu-company-details {
@@ -680,7 +680,7 @@ a {
 
 .menu-company-details span {
   display: block;
-  color: #23262D;
+  color: #23262d;
   font-size: 16px;
   margin-bottom: 5px;
 }
@@ -711,7 +711,7 @@ a {
   z-index: 1;
   overflow: hidden;
   transition: background-color 0.5s ease;
-  color: #23262D;
+  color: #23262d;
 }
 
 .side-menu .social-icons li.animated-wrap a:hover {
@@ -725,7 +725,7 @@ a {
 .banner-section {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #23262D;
+  background-color: #23262d;
 }
 .banner-section .heading {
   font-size: 65px;
@@ -754,7 +754,7 @@ a {
   background-color: transparent !important;
 }
 .portfolio-Section .text-section {
-  background-color: #23262D;
+  background-color: #23262d;
   padding-top: 100px;
   padding-bottom: 100px;
 }
@@ -817,7 +817,7 @@ a {
 .counter-section {
   padding-top: 80px;
   padding-bottom: 80px;
-  background-color: #23262D;
+  background-color: #23262d;
 }
 
 .counter-section .counter-text .text {
@@ -859,18 +859,18 @@ a {
   padding-bottom: 120px;
 }
 .testimonial-section .heading {
-  color: #23262D;
+  color: #23262d;
   margin-bottom: 40px;
 }
 .testimonial-section .text {
-  color: #23262D;
+  color: #23262d;
 }
 .testimonial-section .testimonial-carousel .testimonials .text {
   font-size: 18px;
 }
 .testimonial-section .testimonial-carousel .testimonials .subheading {
   margin-top: 30px;
-  color: #23262D;
+  color: #23262d;
 }
 .testimonial-section .testimonial-carousel .testimonials .testimonial-image {
   width: 80px;
@@ -880,7 +880,7 @@ a {
 }
 
 .testimonial-section .testimonials .quote i {
-  color: #23262D;
+  color: #23262d;
   font-style: italic;
   font-size: 20px;
   margin-bottom: 30px;
@@ -890,7 +890,7 @@ a {
 .client-section {
   padding-top: 100px;
   padding-bottom: 27px;
-  background-color: #23262D;
+  background-color: #23262d;
 }
 
 /* ===================================
@@ -899,7 +899,7 @@ a {
 .blog-section {
   padding-top: 125px;
   padding-bottom: 120px;
-  background-color: #23262D;
+  background-color: #23262d;
 }
 .blog-section .img-section .slider-shape {
   display: flex;
@@ -1026,7 +1026,7 @@ a {
 footer {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #23262D;
+  background-color: #23262d;
 }
 
 footer .text {
@@ -1122,7 +1122,7 @@ footer .text {
   opacity: 0;
   position: absolute;
   transition: all 0.3s ease;
-  background-color: #23262D;
+  background-color: #23262d;
 }
 .hover-effect:hover .standaloneoverlay {
   opacity: 0.4;
@@ -1133,7 +1133,7 @@ footer .text {
   bottom: 0;
   right: 0;
   cursor: pointer;
-  background-color: #23262D;
+  background-color: #23262d;
 }
 .hover-effect:hover .overlayBottom {
   height: 100%;
@@ -1159,7 +1159,7 @@ footer .text {
 }
 
 .main-blog-section .text-section {
-  background-color: #23262D;
+  background-color: #23262d;
 }
 .main-blog-section .text-section .text-col {
   padding: 40px 10px;
@@ -1226,9 +1226,9 @@ footer .text {
 
 /*Widgets*/
 .main-blog-section .widget {
-  background-color: #23262D;
+  background-color: #23262d;
   padding: 30px 20px;
-  border: 1px solid #23262D;
+  border: 1px solid #23262d;
   border-radius: 5px;
   box-shadow: 0 0 10px rgb(255 255 255 / 25%);
 }
@@ -1237,7 +1237,7 @@ footer .text {
   padding-bottom: 1.3rem;
   border-bottom-left-radius: 20px;
   border-top-left-radius: 20px;
-  color: #23262D;
+  color: #23262d;
 }
 .main-blog-section .widget .search-box .form-control,
 .search-box .search-addon {
@@ -1253,7 +1253,7 @@ footer .text {
 }
 .main-blog-section .widget .search-box .search-addon {
   background-color: #f1c30f;
-  color: #23262D;
+  color: #23262d;
   position: relative;
   top: 0;
   left: 0;
@@ -1272,9 +1272,9 @@ footer .text {
 /*Posts-List*/
 .main-blog-section .posts-list {
   margin-top: 60px;
-  background-color: #23262D;
+  background-color: #23262d;
   padding: 30px 15px;
-  border: 1px solid #23262D;
+  border: 1px solid #23262d;
   border-radius: 5px;
   box-shadow: 0 0 10px rgb(255 255 255 / 25%);
 }
@@ -1318,9 +1318,9 @@ footer .text {
 /*Tags*/
 .main-blog-section .tags {
   margin-top: 60px;
-  background-color: #23262D;
+  background-color: #23262d;
   padding: 30px 15px;
-  border: 1px solid #23262D;
+  border: 1px solid #23262d;
   border-radius: 5px;
   box-shadow: 0 0 10px rgb(255 255 255 / 25%);
 }
@@ -1340,7 +1340,7 @@ footer .text {
 .main-blog-section .tags span:hover {
   background-color: #70ad47;
   border: 1px solid #70ad47;
-  color: #23262D;
+  color: #23262d;
   transition: all 0.5s ease;
 }
 
@@ -1349,8 +1349,8 @@ footer .text {
   padding: 30px 15px;
   border-radius: 5px;
   margin-top: 60px;
-  border: 1px solid #23262D;
-  background-color: #23262D;
+  border: 1px solid #23262d;
+  background-color: #23262d;
   box-shadow: 0 0 10px rgb(255 255 255 / 25%);
 }
 .main-blog-section .categories .categories-name {
@@ -1379,7 +1379,7 @@ footer .text {
 .main-blog-section .categories .categories-name:hover .text > span {
   background-color: #70ad47;
   transition: all 0.5s ease;
-  color: #23262D;
+  color: #23262d;
 }
 
 /*Adver img*/
@@ -1597,7 +1597,7 @@ footer .text {
     left: 89%;
   }
   .navbar-fixed-top.scrolled {
-    background-color: #23262D !important;
+    background-color: #23262d !important;
     box-shadow: 0 10px 10px -10px rgb(0 0 0 / 35%);
   }
   /*Side Menu*/
