@@ -517,18 +517,20 @@ a {
   animation: 0.8s rotate;
 }
 @-webkit-keyframes rotate {
-  from {
+  0% {
     transform: rotate(0deg);
   }
-  to {
+  100% {
     transform: rotate(360deg);
   }
 }
-@keyframes rotates {
-  from {
+
+/* Equivalent using standard @keyframes */
+@keyframes rotate {
+  0% {
     transform: rotate(0deg);
   }
-  to {
+  100% {
     transform: rotate(360deg);
   }
 }
